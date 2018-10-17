@@ -1,0 +1,3 @@
+server:
+  port: 81
+profile: 正式版本
